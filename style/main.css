@@ -1,7 +1,9 @@
 * {
     box-sizing: border-box;
+    font-family: 'Arial Black', serif;
 
 }
-div, h1, h2,main{
+
+div, h1, h2, main {
     text-align: center;
 }
