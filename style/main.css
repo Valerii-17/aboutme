@@ -1,0 +1,7 @@
+* {
+    box-sizing: border-box;
+
+}
+div, h1, h2,main{
+    text-align: center;
+}
